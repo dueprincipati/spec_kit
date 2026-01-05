@@ -1,3 +1,3 @@
 ---
-agent: speckit.tasks
+agent: agent
 ---

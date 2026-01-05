@@ -1,3 +1,3 @@
 ---
-agent: speckit.plan
+agent: agent
 ---
